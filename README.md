@@ -51,6 +51,12 @@ Ganti path ffmpeg jadi `usr/bin/ffmpeg` dan chrome nya jadi `usr/bin/google-chro
 > node index.js
 ```
 
+atau
+
+```bash
+> node SonicjV2.js
+```
+
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
